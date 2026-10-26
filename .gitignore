@@ -1,0 +1,33 @@
+# CAD 源文件与中间产物（属于设计资料 / 体积大），不随仓库发布
+*.SLDASM
+*.SLDPRT
+*.sldasm
+*.sldprt
+*.STEP
+*.step
+*.stp
+*.3mf
+*.3MF
+*.iges
+*.igs
+*.stl
+
+# 管线中间产物
+*.bin
+leaves/
+leaves2/
+mesh/
+*.log
+*.bak.json
+
+# 环境
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store

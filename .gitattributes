@@ -1,0 +1,4 @@
+# 所有文件都按原样存储（LF），不做行尾转换，避免 Windows 上出现"文件已修改"的假差异
+* -text
+*.png binary
+*.bat -text
