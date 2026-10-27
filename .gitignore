@@ -31,3 +31,5 @@ venv/
 Thumbs.db
 desktop.ini
 .DS_Store
+# 姿态更新前的备份
+index.html.before_*
